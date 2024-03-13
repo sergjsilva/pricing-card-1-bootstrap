@@ -1,2 +1,2 @@
-# Simple Bootstrap Card
+# Simple Pricing Card
 ### Template 1
